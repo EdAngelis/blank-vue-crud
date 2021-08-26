@@ -130,7 +130,7 @@
           value: 'name',
         },
         { text: 'E-mail', value: 'email' },
-        { text: 'Actions', value: 'actions', sortable: false },
+        { text: '', value: 'actions', sortable: false },
       ],
       desserts: [],
       editedIndex: -1,
